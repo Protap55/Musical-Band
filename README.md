@@ -35,7 +35,7 @@ This website provides information about a fictional musical band.  It includes s
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/[your-github-username]/musical-band-website.git` (Replace with your repository URL)
+1. Clone the repository: https://protap55.github.io/Musical-Band/
 2. Open the `index.html` file in your web browser.
 
 ## Usage
