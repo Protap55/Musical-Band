@@ -64,7 +64,7 @@
 .img_wrapper {
     position: relative;
     width: 100%;
-    height: 92vh;
+    height: 93vh;
     overflow: hidden;
     object-fit: cover;
 }
@@ -134,7 +134,7 @@ td,tr,table{
 #tour_wrapper{
     background-color: black;
     width: 100%;
-    height: 100vh;
+    height: 115vh;
     text-align: center;
 }
 #tour_date{
@@ -207,7 +207,7 @@ td,tr,table{
 }
 .contact_wrapper{
     width: 100%;
-    height: 42vh;
+    height: 45vh;
     background-color: gray;
 }
 .info{
